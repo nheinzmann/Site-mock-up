@@ -1,0 +1,54 @@
+@import url(http://fonts.googleapis.com/css?family=Lora);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:400,700);
+
+
+
+body {
+	background-color: hsla(50, 37%, 73%, 0.8);
+}
+
+
+img {
+	margin-top: 1.2em;
+	
+}
+a {
+	text-decoration: none;
+	color: hsl(4,72%,34%);
+}
+
+a:hover {
+	text-decoration: none;
+	color: hsl(29,76%,45%);
+}
+h1 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 3.8em;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-weight: bold;
+	
+
+}
+h3 {
+	margin-top: -0.2em;
+	margin-left: 0.18em;
+	font-size: 2.4em;
+	font-family: 'Josefin Sans', sans-serif;
+	
+
+
+}
+p {
+	font-size: 1.2em;
+	font-family: lora;
+	color: rgb(38,38,35);
+	line-height: 150%;
+	letter-spacing: 0.05em;
+	margin-left: 1.5em;
+	padding-bottom: 0.9em;
+
+}
+article {
+	margin-top: 1.1em;
+}
